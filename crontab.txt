@@ -1,0 +1,1 @@
+0 * * * * sh ~/uoa_drive/uoa/code/scripts/backup_db.sh 
